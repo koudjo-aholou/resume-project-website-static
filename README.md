@@ -1,6 +1,6 @@
 ##React JS Project
 
-Fonctionnality :
+Functionalities :
 - Slider
 - CountDown
 - SlideTo
